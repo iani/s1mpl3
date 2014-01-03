@@ -1,16 +1,17 @@
 /*! normalize.css v2.1.3 | MIT License | git.io/normalize */
 
-article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary {
+article, aside, details, figcaption, figure, footer, header, hgroup, 
+main, nav, section, summary {
 	display:block
 }
-audio,canvas,video {
+audio, canvas, video {
 	display:inline-block
 }
 audio:not([controls]) {
 	display:none;
 	height:0
 }
-[hidden],template {
+[hidden], template {
 	display:none
 }
 html {
@@ -28,7 +29,7 @@ a {
 a:focus {
 	outline:thin dotted
 }
-a:active,a:hover {
+a:active, a:hover {
 	outline:0
 }
 h1 {o
